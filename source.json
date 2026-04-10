@@ -1,0 +1,44 @@
+{
+  "name": "Sunset Drift",
+  "apps": [
+    {
+      "name": "Sunset Drift",
+      "bundleIdentifier": "com.tinytiny.dash",
+      "marketplaceID": "6761053659",
+      "developerName": "Oodre OU",
+      "subtitle": "Jump and survive the desert!",
+      "localizedDescription": "Experience a precision-based driving survival game set in a dynamically shifting desert environment. Sunset Drift focuses on high-fidelity timing and minimalist \"Flat Design\" aesthetics, offering a polished alternative to generic arcade runners.",
+      "iconURL": "https://ju-runner.github.io/alt-ys-source-sunsetdrift/icon/icon.png",
+      "tintColor": "#b960d6",
+      "category": "games",
+      "screenshots": [
+        "https://ju-runner.github.io/alt-ys-source-sunsetdrift/screenshots/screenshot1.png",
+        "https://ju-runner.github.io/alt-ys-source-sunsetdrift/screenshots/screenshot2.png",
+        "https://ju-runner.github.io/alt-ys-source-sunsetdrift/screenshots/screenshot3.png",
+        "https://ju-runner.github.io/alt-ys-source-sunsetdrift/screenshots/screenshot4.png"
+      ],
+      "versions": [
+        {
+          "version": "1.2",
+          "buildVersion": "1",
+          "date": "2026-04-07",
+          "downloadURL": "https://ju-runner.github.io/alt-ys-source-sunsetdrift/manifest.json",
+          "size": 6361703
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.associated-domains"
+        ],
+        "privacy": {
+          "NSCameraUsageDescription": "We need access to your camera to let you make a photo when needed.",
+          "NSMicrophoneUsageDescription": "App may request microphone access when needed.",
+          "NSUserTrackingUsageDescription": "This ATT ID will be used to deliver personalized ads to you.",
+          "NSPhotoLibraryUsageDescription": "We need access to your photo library to let you choose a photo when needed."
+        }
+      }
+    }
+  ],
+  "news": []
+}
